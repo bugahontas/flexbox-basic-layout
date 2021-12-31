@@ -67,7 +67,7 @@ Flexbox Basic Layout starts here
 	border-radius: 5px;
 	background-color: #8fafd954;
 	
-	/*----- Flexbox properties -----*/
+	/*----- Flexbox properties: you can add/change properties and values here -----*/
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
@@ -84,6 +84,6 @@ Flexbox Basic Layout starts here
 	min-width: 0;
 	min-height: 0;
 
-	/*----- Flexbox properties -----*/
+	/*----- Flexbox properties: you can add/change properties and values here -----*/
 	flex: 0 1 auto;
 }
