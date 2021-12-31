@@ -11,5 +11,5 @@ For everyone!! Especially for beginners who are learning about Flexbox.
 ## How to use?
 
 1. Clone this repo to your local machine;
-2. Open flex-basic-layout.html and flex-basic-layout.css files with your favorite editor;
-3. Open the .html file with your favorite web browser and have fun!
+2. Open `flex-basic-layout.html` and `flex-basic-layout.css` files with your favorite editor;
+3. Open the `.html` file with your favorite web browser and have fun!
