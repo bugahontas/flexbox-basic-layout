@@ -6,7 +6,7 @@ It's ready for use, so you don't have to spend a lot of time creating a boring l
 Just add the flexbox properties you want to learn about, test them in your browser and have fun! 
 
 ## Who is this repo for?
-For everyone!! Specially for beginners that are learning about Flexbox.
+For everyone!! Especially for beginners who are learning about Flexbox.
 
 ## How to use?
 
