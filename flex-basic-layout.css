@@ -55,19 +55,19 @@ Flexbox Basic Layout starts here
 =================================
 */
 
-*, *::before, *::after {
+* {
 	box-sizing: border-box;
 }
 
 .flex-container {
-	width: 50%;
-	height: 80vh;
-	margin: 50px auto;
-	border: 1px dashed #41628C;
+	width: 80vw;
+	min-height: 80vh;
+	margin: 60px auto;
 	border-radius: 5px;
-	background-color: #8fafd954;
+	background-color: #e1cef8;
+	box-shadow: 1px 3px 8px #000;
 	
-	/*----- Flexbox properties: you can add/change properties and values here -----*/
+	/*----- Add/change Flexbox properties here -----*/
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
@@ -78,12 +78,12 @@ Flexbox Basic Layout starts here
 .flex-item {
 	width: 16%;
 	height: 16vh;
-	border: 1px solid #887758;
-	background-color: #DAC08F;
-	font: 300 1rem "Courier New", Courier, monospace;
-	min-width: 0;
-	min-height: 0;
+	padding-left: 5px;
+	background-color: #f5f053af;
+	color: #3f019c;
+	font: 400 1rem 'Leckerli One', cursive;
+	box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.801);
 
-	/*----- Flexbox properties: you can add/change properties and values here -----*/
+	/*----- Add/change Flexbox properties here -----*/
 	flex: 0 1 auto;
 }
